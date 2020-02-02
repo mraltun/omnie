@@ -633,8 +633,8 @@ js--wp-4 {
     animation-duration: 1s;
 }
 
-.js--wp-1.animated
-.js--wp-2.animated
+.js--wp-1.animated,
+.js--wp-2.animated,
 .js--wp-3.animated {
     opacity: 1;
 }
